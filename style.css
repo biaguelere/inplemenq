@@ -1,8 +1,11 @@
 header {
     background-color: rgb(242, 156, 6);
-color: rgba(146, 62, 187, 0.631);
+color: rgba(145, 62, 187, 0.9);
+}
+.cabeçalho{
+
+}
+.cabeçalho-imagem {
+
 }
 
-.cabeçalho-imagem {
-    text-align: center;
-}
