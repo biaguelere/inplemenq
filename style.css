@@ -2,3 +2,7 @@ header {
     background-color: rgb(242, 156, 6);
 color: rgba(146, 62, 187, 0.631);
 }
+
+.cabeçalho-imagem {
+    text-align: center;
+}
