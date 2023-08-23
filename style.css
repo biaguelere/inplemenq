@@ -1,11 +1,13 @@
-header {
-    background-color: rgb(242, 156, 6);
+.cabeçalho {
+    background-color: rgba(242, 6, 152, 0.353);
 color: rgba(145, 62, 187, 0.9);
-}
-.cabeçalho{
+display: flex;
+justify-content: space-around ;
 
 }
-.cabeçalho-imagem {
 
-}
+
+
+
+
 
