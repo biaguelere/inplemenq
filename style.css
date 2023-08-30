@@ -12,6 +12,14 @@ font-size: 30px;
 }
 .cabeçalho-lista-item{
     display: inline-block;
+    margin: 0 16px;
+
+.escola{backgroynd-image:linear-gradient(aqua,rgb(46,1,247)):color:aliceblue;display:flex;}
+
+.escola-conteudo{width:35%;}
+.escola{display:flex;justify-content: center;align-items:center;padding:24px 0;}
+.escola-título{padding:24px 0;}
+
 }
 
 
